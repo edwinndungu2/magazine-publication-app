@@ -77,6 +77,7 @@ rm magazine.db && python -m lib.cli init && python -m lib.seed
 
 
 Dependencies
+
 Python 3.9+
 
 SQLAlchemy (ORM)
